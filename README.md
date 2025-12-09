@@ -73,6 +73,13 @@ support C89 and higher editions<br>
     ON_NAME
 ```
 ```c
+    UNKNOWN     0
+    KNOWN       1
+
+    UNKNOWN_NAME
+    KNOWN_NAME
+```
+```c
     NO          0
     YES         1
 
@@ -83,4 +90,5 @@ support C89 and higher editions<br>
 <br>
 
 # Updates
+2025 12 09 added UNKNOWN, KNOWN constants
 <br>

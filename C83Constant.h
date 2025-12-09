@@ -26,6 +26,7 @@
 #include "CSTLLvl.h"
 #include "CSTRdWr.h"
 #include "CSTSwch.h"
+#include "CSTUnknw.h"
 #include "CSTYesNo.h"
 
 
